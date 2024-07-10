@@ -1,0 +1,15 @@
+{
+    "name": "magical-arena",
+    "version": "1.0.0",
+    "description": "A simple game where two players fight in a magical arena.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^26.6.3"
+    }
+  }
+  
